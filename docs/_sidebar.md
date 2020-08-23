@@ -2,7 +2,7 @@
 
 * [Introduction](/)
 * [Community Heroes Identity](identity.md)
-* Organization
+* [Organization](organization.md)
     * [Teal Organization](teal.md)
     * [Self Management](selfmanagement.md)
         * [Structure](structure.md)
