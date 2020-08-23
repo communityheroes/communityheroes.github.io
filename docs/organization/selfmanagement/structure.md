@@ -1,5 +1,5 @@
-Structures for self management[](#structures-for-self-management)
-=====================================================================
+# Structures for self management[](#structures-for-self-management)
+--------------------------------------------------------------------------------------------------------
 
 Here is what you will find in the next chapters:[](#here-is-what-you-will-find-in-the-next-chapters)
 --------------------------------------------------------------------------------------------------------

@@ -4,6 +4,9 @@ Role definition and allocation[](#role-definition-and-allocation)
 
 As explained [here](/guidebook/organization/self-management/structure/roles), at Community Heroes we have roles instead of fixed job descriptions and we use [glassfrog](https://app.glassfrog.com/organizations/23039/orgnav/roles/12945438) instead of a regular organigram and job descriptions.
 
+# Role definition
+------------------------------------------------------------------------------------------------------------------------------
+
 **In general**, the lead link of each circle holds its purpose is responsible for ensuring that the appropriate roles exist for the purpose to be realized and that there is a good fit between the roles and the people. In pratice, these discussions and any decisions are generally held with all (or most of) the circle members, during governance meetings.
 
 How are roles allocated?[](#how-are-roles-allocated)

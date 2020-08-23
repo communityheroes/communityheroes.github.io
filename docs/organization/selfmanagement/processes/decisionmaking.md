@@ -1,6 +1,5 @@
-Decision making > advice process & consent[](#decision-making-greater-than-advice-process-and-consent)
-
-==========================================================================================================
+# Decision making > advice process & consent[](#decision-making-greater-than-advice-process-and-consent)
+------------------------------------------------------------------------------------------------------------------------------
 
 At Community Heroes we use 2 different decision processes depending on the type of decision:
 

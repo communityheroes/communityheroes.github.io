@@ -1,6 +1,5 @@
-**Why no bosses or managers?**[](#why-no-bosses-or-managers)
-
-================================================================
+# Why no bosses or managers?[](#why-no-bosses-or-managers)
+------------------------------------------------------------------------------------------------------------------------------
 
 Hierarchy with layers of (senior) managers is great for maintaining predictability and repeatability. It simplifies planning and makes it easier to control a large group of people from the top down, which is why military organizations rely on it so heavily.
 

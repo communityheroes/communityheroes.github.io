@@ -1,3 +1,6 @@
+# Self Management
+------------------------------------------------------------------------------------------------------------------------------
+
 **Self management is NOT no management**. Self-management at Community Heroes functions thanks to an interlocking system of structures and processes, detailed in the next chapters.
 
 **Advantages of self management:**

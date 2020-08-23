@@ -1,6 +1,5 @@
-Internal communication > absolute transparency[](#internal-communication-greater-than-absolute-transparency)
-
-================================================================================================================
+# Internal communication > absolute transparency[](#internal-communication-greater-than-absolute-transparency)
+------------------------------------------------------------------------------------------------------------------------------
 
 All employees get access to the "Community Heroes shared" drive folder that contains ALL information about Community Heroes, even people's salaries, our finance and performance evaluations. We switched to slack also to provide more transparency than previously existed with emails, since in general anyone can join any slack channel, apart from those made "closed" for a good reason.
 

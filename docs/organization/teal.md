@@ -1,3 +1,6 @@
+# Teal Organizations
+------------------------------------------------------------------------------------------------------------------------------
+
 Community Heroes is intended to be a teal organization (at least partially) as defined in Laloux's book "Reinventing organization". Laloux's identify 5 different types of organizations throughout history that are consistent with the evolution of the level of consciousness whose teal is the latest one.
 
 What is a teal organisation? The Harvard Business Review describes it as a "new kind of organization designed to enable "whole" individuals (not narrow professional selves) to self-organize and self-manage to achieve an organic organizational purpose (determined not through hierarchical planning but incrementally, responsively, and from the bottom up)".

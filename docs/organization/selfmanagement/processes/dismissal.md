@@ -1,6 +1,5 @@
-Potential dismissal process[](#potential-dismissal-process)
-
-===============================================================
+# Potential dismissal process[](#potential-dismissal-process)
+------------------------------------------------------------------------------------------------------------------------------
 
 When hiring someone new to join our team, it's important to be aware that our working culture is not a good match to everyone. Approximately once a year since Community Heroes started having employees, someone has been dismissed. Because of our human centered culture and the fact that the people we work with are not only colllegues but also friends, the longer the person has been part of the team, the more difficult it is to go through a dismissal process (believe it, we know from experience!!).
 

@@ -1,4 +1,5 @@
-## Self managing teams[](#self-managing-teams)
+# Self managing teams[](#self-managing-teams)
+------------------------------------------------------------------------------------------------------------------------------
 
 In accordance with holacracy (and sociocracy), Community Heroes is organized in self-managed, semi-autonomous circles and sub-circles, each holding its own purpose in alignment with other circles' and Community Heroes' purpose.
 
