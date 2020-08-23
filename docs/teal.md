@@ -23,9 +23,7 @@ There are 3 important components of a Teal organization, which are present withi
 
 -   [Videos](https://www.youtube.com/channel/UCUiCCzSId58oP0p62Z2m3zQ/playlists) from Laloux on "Reinventing organisations"
 
-###
-
-Holacracy[](#holacracy)
+### Holacracy
 
 Holacracy is a complete system for self-organization. The traditional hierarchy is reaching its limits, but "flat management" alternatives lack the rigor needed to run a business effectively. Holacracy is a third-way: it brings structure and discipline to a peer-to-peer workplace. In a nutshell: "Holacracy is a social technology or system of organizational governance in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy" (Source : wikipedia).
 
