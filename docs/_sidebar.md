@@ -7,3 +7,9 @@
     * [Self Management](selfmanagement.md)
         * [Structure](structure.md)
         * [Processes](processes.md)
+    * [Meetings](meetings.md)
+* Individuals
+    * [Recruitment](recruitment.md)
+    * [How to integrate yourself](integration.md)
+    * [How to integrate others](othersint.md)
+    * [Collaboration tools](tools.md)
