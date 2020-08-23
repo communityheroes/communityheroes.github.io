@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Introduction](Introduction.md)
+* [Introduction](/)
 * [Community Heroes Identity](identity.md)
 * [Organization](identity.md)
     * [Teal Organization](organization/teal.md)
