@@ -103,7 +103,7 @@ Lately we have also been experimenting with consent from sociocracy3.0 (see post
 
 3.  **Hand facing down** and shaking when we have a "concern" that we want to express but we have no objection
 
-![](https://gblobscdn.gitbook.com/assets%2F-LYk_nr2SpIbaPqDFGOo%2F-LkyXmdP6Fr3LZI-1TKo%2F-LkyEXgsl0bw712Ttpyl%2FSchermata%202019-07-29%20alle%2016.58.59.png?alt=media&token=d0b766c2-84a1-4ba3-be99-1a77da08b8e8)
+![](https://gblobscdn.gitbook.com/assets%2F-LYk_nr2SpIbaPqDFGOo%2F-LkyXmdP6Fr3LZI-1TKo%2F-LkyEXgsl0bw712Ttpyl%2FSchermata%202019-07-29%20alle%2016.58.59.png?alt=media&token=d0b766c2-84a1-4ba3-be99-1a77da08b8e8 =500x)
 
 ​**Roles to insure the process goes smoothly:**
 
