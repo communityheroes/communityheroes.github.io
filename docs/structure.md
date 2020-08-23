@@ -1,20 +1,7 @@
-# Structures for self management[](#structures-for-self-management)
+# Structures for self management
 --------------------------------------------------------------------------------------------------------
 
-Here is what you will find in the next chapters:[](#here-is-what-you-will-find-in-the-next-chapters)
---------------------------------------------------------------------------------------------------------
-
--   **Why no bosses?**
-
--   **Self managing teams**
-
--   **What we use (and don't) from holacracy**
-
--   **Granular roles**
-
--   **Volunteer task forces**
-
-# Why no bosses or managers?[](#why-no-bosses-or-managers)
+## Why no bosses or managers?
 ------------------------------------------------------------------------------------------------------------------------------
 
 Hierarchy with layers of (senior) managers is great for maintaining predictability and repeatability. It simplifies planning and makes it easier to control a large group of people from the top down, which is why military organizations rely on it so heavily.
@@ -27,14 +14,14 @@ Meanwhile, most organizations still rely on a way of working designed over 100 y
 
 This is one of the key motivations for **Community Heroes' non-hierarchical organisational model. This does NOT mean our structure is flat.** Not everyone has the same influence or amount of decisional power, but each can decide for him/herself within his/her roles. An informal hierarchy emerges according to the knowledge and experience of the person within the organization.
 
-# Self managing teams[](#self-managing-teams)
+## Self managing teams
 ------------------------------------------------------------------------------------------------------------------------------
 
 In accordance with holacracy (and sociocracy), Community Heroes is organized in self-managed, semi-autonomous circles and sub-circles, each holding its own purpose in alignment with other circles' and Community Heroes' purpose.
 
 To enact its purpose, each circle determines appropriate roles which are filled by team members in accordance with their talents. Employees thus fill several roles that evolve over time instead of having a fixed job title and terms of reference. All the information relating to our governance is easily available on the online platform called glassfrog, through which it's easy to see for examples what are all of a circle's roles, or all the roles one person fills. In the glassfrog screen shot below is an overview of how the main circles are were organized at some point, to have the current structure you'll need to access glassfrog. As you can see this looks quite different from a regular organizational chart ;)
 
-# Roles instead of fixed job descriptions
+## Roles instead of fixed job descriptions
 ------------------------------------------------------------------------------------------------------------------------------
 
 So if you've worked in a large traditional company or organization, you know all about fixed job descriptions like CEO (Chief Executive Officer), CFO (Chief Finance Officer), COO (Chief Operational Officer). At Community Heroes, we feel this is too limiting, cos what if you want to be CFO *and* a trainer *and* build partnerships? And what if after a few years you get tired of being CFO but want to keep your other responsibilities and take up fundraising? Well, here's the secret: you can! This is the beauty of granular, evolving roles.
