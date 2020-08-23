@@ -3,7 +3,7 @@
 
 You will find in the next chapters the key processes that allow us to work effectively in a self-managed environment. Post a comment if anything is missing!
 
-# Internal communication > absolute transparency[](#internal-communication-greater-than-absolute-transparency)
+## Internal communication > absolute transparency
 ------------------------------------------------------------------------------------------------------------------------------
 
 All employees get access to the "Community Heroes shared" drive folder that contains ALL information about Community Heroes, even people's salaries, our finance and performance evaluations. We switched to slack also to provide more transparency than previously existed with emails, since in general anyone can join any slack channel, apart from those made "closed" for a good reason.
@@ -32,7 +32,7 @@ Around two years ago we have moved to Slack in order to improve even further our
 
 -   We will probably have in the future some group of people requiring a degree of confidentiality (Firing, legal decisions...)
 
-# Decision making > advice process & consent[](#decision-making-greater-than-advice-process-and-consent)
+## Decision making > advice process & consent
 ------------------------------------------------------------------------------------------------------------------------------
 
 At Community Heroes we use 2 different decision processes depending on the type of decision:
@@ -115,14 +115,13 @@ Lately we have also been experimenting with consent from sociocracy3.0 (see post
 
 -   (Vibewatcher)
 
-# What about the money? 
+## What about the money? 
 ------------------------------------------------------------------------------------------------------------------------------
 
 Financial processes or: [Show me the money!](https://www.youtube.com/watch?v=FFrag8ll85w)[](#financial-processes-or-show-me-the-money)
 
 
-## Financial circle[](#financial-circle)
------------------------------------------
+### Financial circle
 
 **There should a financial circle composed by the lead of all the other circles and who would be responsible for the budget.** Together with the person holding the role of financial management,
 
@@ -130,11 +129,9 @@ Rest of the details to be completed (we still have no money to spend :( )
 
 Role definition and allocation[](#role-definition-and-allocation)
 
-=====================================================================
+As explained, at Community Heroes we have roles instead of fixed job descriptions and we use [glassfrog](https://app.glassfrog.com/organizations/23039/orgnav/roles/12945438) instead of a regular organigram and job descriptions.
 
-As explained [here](/guidebook/organization/self-management/structure/roles), at Community Heroes we have roles instead of fixed job descriptions and we use [glassfrog](https://app.glassfrog.com/organizations/23039/orgnav/roles/12945438) instead of a regular organigram and job descriptions.
-
-# Role definition
+## Role definition
 ------------------------------------------------------------------------------------------------------------------------------
 
 **In general**, the lead link of each circle holds its purpose is responsible for ensuring that the appropriate roles exist for the purpose to be realized and that there is a good fit between the roles and the people. In pratice, these discussions and any decisions are generally held with all (or most of) the circle members, during governance meetings.
@@ -155,7 +152,7 @@ How are roles defined?[](#how-are-roles-defined)
 
 Each lead link is responsible for making sure the roles are clearly defined. He/she can decide how the role definition happens and who does it. Subsequent changes to the role definitions are generally made or decided during governance meetings.
 
-# Conflict resolution[](#conflict-resolution)
+## Conflict resolution
 ------------------------------------------------------------------------------------------------------------------------------
 
 **Conflict is a normal part of any long term relation between humans**. What's important is to have the courage to address it, with an attitude and skills that will support the relationship, not endanger it. So if you are in a conflict with someone: congratulations!!! You are a normal human being and about to live an experience that will help you grow :-)
@@ -163,7 +160,7 @@ Each lead link is responsible for making sure the roles are clearly defined. He/
 Here we will define processes and framework for non-violent and efficient conflict resolution (To be completed)
 
 
-# Potential dismissal process[](#potential-dismissal-process)
+## Potential dismissal process
 ------------------------------------------------------------------------------------------------------------------------------
 
 When hiring someone new to join our team, it's important to be aware that our working culture is not a good match to everyone. Approximately once a year since Community Heroes started having employees, someone has been dismissed. Because of our human centered culture and the fact that the people we work with are not only colllegues but also friends, the longer the person has been part of the team, the more difficult it is to go through a dismissal process (believe it, we know from experience!!).
