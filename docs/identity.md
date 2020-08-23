@@ -1,12 +1,7 @@
-Legal status[](#legal-status)
-
----------------------------------
-
+## Legal status[](#legal-status)
 Ongoing
 
-Mission and values[](#mission-and-values)
-
----------------------------------------------
+## Mission and values[](#mission-and-values)
 
 **Community Heroes aims to** Create an environment of community and purpose. We strongly believe that open and inclusive communities can engage people and organizations in meaningful, diverse and fun connections and help them become better versions of themselves.
 
