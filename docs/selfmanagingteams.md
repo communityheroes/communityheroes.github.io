@@ -1,6 +1,0 @@
-# Self managing teams[](#self-managing-teams)
-------------------------------------------------------------------------------------------------------------------------------
-
-In accordance with holacracy (and sociocracy), Community Heroes is organized in self-managed, semi-autonomous circles and sub-circles, each holding its own purpose in alignment with other circles' and Community Heroes' purpose.
-
-To enact its purpose, each circle determines appropriate roles which are filled by team members in accordance with their talents. Employees thus fill several roles that evolve over time instead of having a fixed job title and terms of reference. All the information relating to our governance is easily available on the online platform called glassfrog, through which it's easy to see for examples what are all of a circle's roles, or all the roles one person fills. In the glassfrog screen shot below is an overview of how the main circles are were organized at some point, to have the current structure you'll need to access glassfrog. As you can see this looks quite different from a regular organizational chart ;)
