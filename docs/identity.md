@@ -15,8 +15,5 @@ Ongoing
 
 -   **Responsibility**: As a company and as individuals, we are responsible for our actions. Being responsible means that we ensure that our actions do not harm, or in any other way negatively impact, our teammates, our communities, our partners, and our planet.
 
-Graphic identity[](#graphic-identity)
-
------------------------------------------
-
+## Graphic identity[](#graphic-identity)
 What does Community Heroes *look* like? How can you make sure that you also present a coherent, nice image of CH whenever you send out into the world a document, powerpoint or message in a bottle? Well... Our brand guidelines are not complete yet :) We'll update this part once it's done.
