@@ -43,9 +43,9 @@ At Community Heroes we use 2 different decision processes depending on the type 
 
 PLUS: we have a general policy that **no one can make a decision that goes against our values or purpose.**
 
-Using these processes is **compulsory** and non-negotiable. In case someone does not, you can use our [conflict resolution process](https://euforia.gitbook.io/ultimateguide/chapter1/a-self-management/112-processes/conflict-resolution) to deal with it.
+Using these processes is **compulsory** and non-negotiable. In case someone does not, you can use our conflict resolution process to deal with it.
 
-**The advice process**[](#the-advice-process)
+**The advice process**
 
 -------------------------------------------------
 
@@ -73,8 +73,7 @@ There are **many benefits of the advice process > it creates:**
 
 You can ask for advice on slack, or during the different periodic or ad-hoc meetings, or by asking for a meeting with a specific person.
 
-Consent decision making[](#consent-decision-making)
-
+Consent decision making
 -------------------------------------------------------
 
 **Here are the steps:**
@@ -117,9 +116,7 @@ Lately we have also been experimenting with consent from sociocracy3.0 (see post
 
 ## What about the money? 
 ------------------------------------------------------------------------------------------------------------------------------
-
-Financial processes or: [Show me the money!](https://www.youtube.com/watch?v=FFrag8ll85w)[](#financial-processes-or-show-me-the-money)
-
+**Financial processes**
 
 ### Financial circle
 
