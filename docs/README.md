@@ -15,4 +15,4 @@ We are also trying to build a culture that is purpose-driven and encouraging who
 
 So this Guidebook is as useful to founding team as it is to all the newcomers and will hopefully allow to explain what's our culture, how do we work and how any of use could participate in evolving the company and the project. 
 
-##### *NB: This document is a work in progress (and it will be a WIP forever probably), so if there is anything missing or not clear feel free to suggest any modification!*
+##### *NB: This document is a work in progress (and it will be a WIP forever probably), so you're more than welcome to come back here often to check for update. And if there is anything missing or not clear feel free to suggest any update!*
